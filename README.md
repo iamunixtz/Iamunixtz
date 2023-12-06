@@ -1,5 +1,5 @@
 <p align="center" style="font-family: courier;">
-    Welcome To My Code World
+    <b>Welcome To My Code World</b>
 
 </p>
 
@@ -25,8 +25,10 @@
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-Follow%20Me-red?style=social&logo=instagram" />
   </a>
 </p>
+<p align="center" style="font-family: courier;">
+    <b>Github Score & Langauge Not My school Grade Lol</b>
 
-# My Github Result Not School Lol
+</p>
 
 <!-- GitHub Score & Language Used -->
   <a href="https://wangchujiang.com/">
@@ -34,7 +36,10 @@
   </a>
 </p>
 
-# My Favourites Tools and Language
+<p align="center" style="font-family: courier;">
+    <b>Github Score & Langauge Not My school Grade Lol</b>
+
+</p>
 <p align="center">
   <!-- Platforms -->
   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
