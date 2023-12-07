@@ -48,7 +48,7 @@
   <img alt="Termux" src="https://img.shields.io/badge/Termux-21BA4C?style=flat-square&logo=linux&logoColor=white" /> 
 
   <!-- Programming Languages -->
-  <p align="">Languages I used to Speak with Computer:<p>
+  <h3 align="">Languages I used to Speak with Computer:</h3>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="Shell" src="https://img.shields.io/badge/Shell-5391FE?style=flat-square&logo=gnu-bash&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
