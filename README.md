@@ -1,7 +1,6 @@
-<p align="center" style="font-family: courier;">
-    <b>Welcome To My Code World</b>
+<h1 align="center">Hi 👋, I'm unixtz</h1>
+<h3 align="center">Hacker | Robotician | YouTuber | Muslim</h3>
 
-</p>
 
 
 <p align="center">
@@ -26,7 +25,7 @@
   </a>
 </p>
 <p align="center" style="font-family: courier;">
-    <b>Github Score & Langauge Not My school Grade Lol</b>
+
 
 </p>
 
@@ -36,10 +35,6 @@
   </a>
 </p>
 
-<p align="center" style="font-family: courier;">
-    <b>Github Score & Langauge Not My school Grade Lol</b>
-
-</p>
 <p align="center">
   <!-- Platforms -->
   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
