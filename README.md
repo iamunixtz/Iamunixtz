@@ -22,6 +22,10 @@
   <a href="https://www.instagram.com/unixtz">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-Follow%20Me-red?style=social&logo=instagram" />
   </a>
+    <!-- Instagram Badge -->
+  <a href="https://www.tryhackme.com/unixtz">
+    <img alt="Instagram" src="https://img.shields.io/badge/tryhackme-Lets%20Play-red?style=social&logo=tryhackme" />
+  </a>
 </p>
 <p align="center" style="font-family: courier;">
 
@@ -64,7 +68,5 @@
 </a>
 
 ----
-<h3 align="center">Let's Play:</h3>
-<img src="https://tryhackme-badges.s3.amazonaws.com/unixtz.png" alt="TryHackMe">
 <h3 align="center">Support:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/unixtz"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scar2001" /></a></p>
