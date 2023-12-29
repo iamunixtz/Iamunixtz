@@ -20,11 +20,11 @@
 
   <!-- Instagram Badge -->
   <a href="https://www.instagram.com/unixtz">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-Follow%20Me-red?style=social&logo=instagram" />
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-red?style=social&logo=instagram" />
   </a>
     <!-- Instagram Badge -->
   <a href="https://www.tryhackme.com/p/unixtz">
-    <img alt="Tryhackme" src="https://img.shields.io/badge/tryhackme-Lets%20Play-red?style=social&logo=tryhackme" />
+    <img alt="Tryhackme" src="https://img.shields.io/badge/tryhackme-red?style=social&logo=tryhackme" />
   </a>
 </p>
 <p align="center" style="font-family: courier;">
