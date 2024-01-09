@@ -65,7 +65,11 @@
 <br>
 <a href="https://github.com/iamunixtz/Iamunixtz/">
    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=iamunixtz&repo=Iamunixtz&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=iamunixtz&repo=Termux-Ngrok&theme=material-palenight" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=iamunixtz&repo=Url-Inspector&theme=material-palenight" />
+
 </a>
+
 
 ----
 <h3 align="center">Support:</h3>
