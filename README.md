@@ -65,7 +65,12 @@
 <br>
 <a href="https://github.com/iamunixtz/Iamunixtz/">
    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=iamunixtz&repo=Iamunixtz&theme=material-palenight" />
+</a>
+<a href="https://github.com/iamunixtz/Termux-Hydra/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=iamunixtz&repo=Termux-Ngrok&theme=material-palenight" />
+</a>
+
+<a href="https://github.com/iamunixtz/Url-Inspector/">
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=iamunixtz&repo=Url-Inspector&theme=material-palenight" />
 
 </a>
