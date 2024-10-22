@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Iamunixtz - Bug Hunter & Drone Maker</title>
+    <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Person",
+      "name": "Iamunixtz",
+      "image": "me.jpg",
+      "jobTitle": ["Bug Hunter", "Red Team Specialist", "Drone Maker"],
+      "description": "Iamunixtz is a skilled bug hunter and red team specialist, dedicated to improving cybersecurity and creating innovative drone solutions. As a Muslim professional, Iamunixtz combines technical expertise with a commitment to ethical practices in cybersecurity.",
+      "url": "https://github.com/iamunixtz",
+      "sameAs": [
+        "https://github.com/iamunixtz",
+        "https://www.instagram.com/iamunixtz",
+        "https://hackerone.com/iamunixtz",
+        "https://www.linkedin.com/in/iamunixtz",
+        "https://twitter.com/iamunixtz"
+      ]
+    }
+    </script>
+    <meta name="author" content="Iamunixtz">
+    <meta name="description" content="Iamunixtz is a skilled bug hunter and red team specialist, dedicated to improving cybersecurity and creating innovative drone solutions.">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Righteous|Ubuntu+Mono&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="main.css" type="text/css">
+    <style>
+        body {
+            margin: 0;
+            overflow: hidden;
+            font-family: 'Ubuntu Mono', monospace;
+            color: #000; /* Black text */
+        }
+        .container {
+            position: relative;
+            z-index: 10;
+            height: 100vh; /* Full height to center content */
+            display: flex;
+            align-items: center; /* Center vertically */
+            justify-content: center; /* Center horizontally */
+        }
+        #particles-js {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: 1;
+        }
+    </style>
+</head>
+<body>
+<div id="particles-js"></div>
+<div class="container">
+    <div class="row d-flex flex-wrap align-items-center justify-content-center text-center">
+        <div class="col-md-5">
+            <img class="image img-fluid" src="me.jpg" alt="Iamunixtz">
+        </div>
+        <div class="col-md">
+            <p class="header1">Iamunixtz</p>
+            <p class="header3">Bug Hunter & Drone Maker</p>
+            <p class="header2">Muslim / Red Team / APT</p>
+            <a class="link1" href="https://github.com/iamunixtz" data-toggle="tooltip" data-placement="bottom" title="GitHub"><i class="fab fa-github"></i></a>
+            <a class="link1" href="https://www.instagram.com/iamunixtz" data-toggle="tooltip" data-placement="bottom" title="Instagram"><i class="fab fa-instagram"></i></a>
+            <a class="link1" href="https://www.linkedin.com/in/iamunixtz" data-toggle="tooltip" data-placement="bottom" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+            <a class="link1" href="https://twitter.com/iamunixtz" data-toggle="tooltip" data-placement="bottom" title="Twitter"><i class="fab fa-twitter"></i></a>
+        </div>
+    </div>
+</div>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
+<script>
+    particlesJS("particles-js", {
+        particles: {
+            number: { value: 50 },
+            color: { value: "#000" },
+            shape: {
+                type: "circle",  // Change shape to circle
+                stroke: { width: 0, color: "#000" },
+            },
+            opacity: {
+                value: 0.5,
+                random: false,
+                anim: { enable: false },
+            },
+            size: {
+                value: 10,  // Adjust size of dots
+                random: true,
+                anim: { enable: false },
+            },
+            line_linked: {
+                enable: true,
+                distance: 150,
+                color: "#000",
+                opacity: 0.4,
+                width: 1,
+            },
+            move: {
+                enable: true,
+                speed: 3,
+                direction: "none",
+                random: false,
+                straight: false,
+                out_mode: "out",
+                bounce: false,
+                attract: { enable: false },
+            },
+        },
+        interactivity: {
+            detect_on: "canvas",
+            events: {
+                onhover: { enable: true, mode: "grab" },
+                onclick: { enable: true, mode: "push" },
+                resize: true,
+            },
+            modes: {
+                grab: { distance: 140, line_linked: { opacity: 1 } },
+                push: { particles_nb: 4 },
+                remove: { particles_nb: 2 },
+            },
+        },
+        retina_detect: true,
+    });
+</script>
+</body>
+</html>
